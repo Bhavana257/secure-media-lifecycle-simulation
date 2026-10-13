@@ -1,0 +1,2 @@
+asset_id,media_type,serial_placeholder,received_utc,handler,method,verification,transferred_to,notes
+DEMO-001,simulated-file,FAKE-SERIAL,YYYY-MM-DD,Lab Operator,simulated overwrite,not yet tested,N/A,training only
